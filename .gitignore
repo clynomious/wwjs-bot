@@ -1,0 +1,8 @@
+# modules
+node_modules
+
+# session
+*auth*
+
+# lock files
+*-lock.json
